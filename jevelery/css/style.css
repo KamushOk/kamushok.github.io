@@ -254,6 +254,7 @@ p.media {
 }
 
 .rings img {
+	margin-top: -1px;
 	width: 100%;
 	height: auto;
 }
