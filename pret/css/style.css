@@ -1,0 +1,65 @@
+/*font-family:"BlackJackRegular";
+font-family: "ProximaNovaRegular";
+font-family: "ProximaNovaBold";*/
+
+
+.header {
+	background: url(../img/header-bg.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 650px;
+}
+
+.logo img {
+	margin-left: 158px;
+	float: left;
+}
+
+.hamburger a {
+	display: inline-block;
+	float: right;
+	font-size: 40px;
+	color: #fff;
+	margin-top: 30px;
+	margin-right: 150px;
+}
+
+.text-area {
+	margin-top: 160px;
+	margin-right: 160px;
+}
+
+.text-area h1 {
+	color: #fff;
+	margin-bottom: 50px;
+	font-size: 70px;
+	font-family:"BlackJackRegular";
+}
+
+.text-area p {
+	color: #fff;
+	font-size: 35px;
+	font-family: "ProximaNovaRegular";
+}
+
+.text-area a {
+	display: inline-block;
+	text-decoration: none;
+	font-weight: bold;
+	color: #fff;
+	border:2px solid #fff;
+	margin-top: 55px;
+	padding: 15px 32px;
+	text-transform: uppercase;
+}
+
+.text-area i {
+	margin-left: 13px;
+}
+
+.text-area a:hover {
+	background-color: #f7f7f7;
+	color: #61c0e7;
+	transition: .3s all;
+}
